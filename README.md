@@ -18,7 +18,7 @@ Welcome to the Lip Reading project! Our goal is to create an end-to-end machine 
 
 ## Getting Started
 
-Follow these steps to get started with the Lip Reading project:
+Follow these steps to quickly get started with the Lip Reading project:
 
 1. **Clone the Repository:**
    ```bash
